@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: alberto
+Build-Jdk: 10.0.1
+Implementation-Title: siw-progetto
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: it.uniroma3
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/galleria/
+Created-By: Maven Integration for Eclipse
+
